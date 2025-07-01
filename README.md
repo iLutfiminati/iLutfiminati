@@ -1,6 +1,6 @@
 ### Hi there, I'm Lutfi 👋
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="400" />
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="1000" />
 
 💻 Passionate about:
 - **Web Development**
