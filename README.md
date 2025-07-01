@@ -13,6 +13,14 @@
 
 ---
 
+### 💻 Device I Use
+
+- **Lenovo Ideapad L340 Gaming**  
+  Intel Core i5, 8GB RAM  
+  *Used to run on GTX 1050 (broken), now using Intel UHD — still learning to code!* 💪😅
+
+---
+
 ### 🧰 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
