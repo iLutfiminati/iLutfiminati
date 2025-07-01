@@ -48,3 +48,7 @@
 </picture>
 
 ###
+
+<img src="https://raw.githubusercontent.com/iLutfiminati/iLutfiminati/output/snake.svg" alt="Snake animation" />
+
+###
