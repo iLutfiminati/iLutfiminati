@@ -36,19 +36,3 @@
 ### 📈 GitHub Stats
 
 ![Lutfi's GitHub stats](https://github-readme-stats.vercel.app/api?username=iLutfiminati&show_icons=true&theme=tokyonight)
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=iLutfiminati&style=flat-square&color=blue)
-
----
-### 🎮 Just for Fun
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iLutfiminati/iLutfiminati/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iLutfiminati/iLutfiminati/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/iLutfiminati/iLutfiminati/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/iLutfiminati/iLutfiminati/output/snake.svg" alt="Snake animation" />
-
-###
