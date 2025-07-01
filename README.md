@@ -1,7 +1,7 @@
 ### Hi there, I'm Lutfi 👋
 
 
-i[<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3diOWNtNjFwbW1zYXRqcG40ZXkzNXdlZnJ6emF6NGhwNm9ua2dpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="400" />]
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3diOWNtNjFwbW1zYXRqcG40ZXkzNXdlZnJ6emF6NGhwNm9ua2dpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" alt="Coding GIF" width="400" />
 <!--
 **iLutfiminati/iLutfiminati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
