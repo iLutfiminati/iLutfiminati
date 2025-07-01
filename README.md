@@ -7,7 +7,11 @@
 - **UI/UX Design**
 - **IT Support**
 
-🌱 Currently learning Fullstack JavaScript
+
+🌱 Currently learning:
+- **👨‍💻 Fullstack JavaScript** (Node.js, React)
+- **🎬 Video Editing** (CapCut)
+
 
 
 ---
@@ -15,10 +19,13 @@
 
 ### 🧰 Tech Stack
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=flat&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=flat&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=flat&logo=javascript&logoColor=F7DF1E)
+![Figma](https://img.shields.io/badge/Figma-ffffff?style=flat&logo=figma&logoColor=F24E1E)
+![PHP](https://img.shields.io/badge/PHP-ffffff?style=flat&logo=php&logoColor=777BB4)
+![Canva](https://img.shields.io/badge/Canva-ffffff?style=flat&logo=canva&logoColor=00C4CC)
+
 
 
 
