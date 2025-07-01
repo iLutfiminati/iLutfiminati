@@ -16,7 +16,7 @@
 ### 💻 Device I Use
 
 - **Lenovo Ideapad L340 Gaming**  
-  Intel Core i5, 8GB RAM  
+  Intel Core i5, 16GB RAM  
   *Used to run on GTX 1050 (broken), now using Intel UHD — still learning to code!* 💪😅
 
 ---
